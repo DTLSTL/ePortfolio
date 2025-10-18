@@ -30,6 +30,7 @@
 						<ul class="links">
 							<li><a href="index.html">Home</a></li>
 							<li><a href="numericalanalysis.html">Numerical Analysis</a></li>
+							<li><a href="machinelearning.html">Machine Learning</a></li>
 						</ul>
 					</nav>
 
@@ -37,11 +38,8 @@
 					<section id="banner" class="major">
 						<div class="inner">
 							<header class="major">
-								<h1>Numerical Analysis</h1>
+								<h1>Machine Learning</h1>
 							</header>
-							<div class="content">
-								<p>Statistics and Mathematics</p>
-							</div>
 						</div>
 					</section>
 
@@ -56,7 +54,7 @@
 									</span>
 									<header class="major">
 										<h3><a href="01na-unit-01.html" class="link">Unit One</a></h3>
-										<p>Types and Sources of Data and an Introduction to R</p>
+										<p>Introduction to Machine Learning</p>
 									</header>
 								</article>
 								<article>
@@ -65,7 +63,7 @@
 									</span>
 									<header class="major">
 										<h3><a href="01na-unit-02.html" class="link">Unit Two</a></h3>
-										<p>Data Structures in R</p>
+										<p>Exploratory Data Analysis</p>
 									</header>
 								</article>
 								<article>
@@ -74,7 +72,7 @@
 									</span>
 									<header class="major">
 										<h3><a href="01na-unit-03.html" class="link">Unit Three</a></h3>
-										<p>Data Management in R</p>
+										<p>Correlation and Regression</p>
 									</header>
 								</article>
 								<article>
@@ -83,7 +81,7 @@
 									</span>
 									<header class="major">
 										<h3><a href="01na-unit-04.html" class="link">Unit Four</a></h3>
-										<p>Probabilities, Probability Distributions, and Sampling</p>
+										<p>Linear Regression with Scikit-Learn</p>
 									</header>
 								</article>
 								<article>
@@ -92,7 +90,7 @@
 									</span>
 									<header class="major">
 										<h3><a href="01na-unit-05.html" class="link">Unit Five</a></h3>
-										<p>Producing Plots and Introducing Calculus</p>
+										<p>Clustering</p>
 									</header>
 								</article>
 								<article>
@@ -101,7 +99,7 @@
 									</span>
 									<header class="major">
 										<h3><a href="01na-unit-06.html" class="link">Unit Six</a></h3>
-										<p>Statistical Inference, Confidence Intervals, and Hypothesis Testing</p>
+										<p>Clustering with Python</p>
 									</header>
 								</article>
 																<article>
@@ -110,7 +108,7 @@
 									</span>
 									<header class="major">
 										<h3><a href="01na-unit-07.html" class="link">Unit Seven</a></h3>
-										<p>Parametric Tests</p>
+										<p>Introduction to Artificial Neural Networks</p>
 									</header>
 								</article>
 																<article>
@@ -119,7 +117,7 @@
 									</span>
 									<header class="major">
 										<h3><a href="01na-unit-08.html" class="link">Unit Eight</a></h3>
-										<p>Nonparametric Tests</p>
+										<p>Training an Artificial Neural Network</p>
 									</header>
 								</article>
 																<article>
@@ -128,7 +126,7 @@
 									</span>
 									<header class="major">
 										<h3><a href="01na-unit-09.html" class="link">Unit Nine</a></h3>
-										<p>Creating Cross-tabulations and Performing Chi-Square Analysis</p>
+										<p>Introduction to Convolutional Neural Networks</p>
 									</header>
 								</article>
 																<article>
@@ -137,7 +135,7 @@
 									</span>
 									<header class="major">
 										<h3><a href="01na-unit-10.html" class="link">Unit Ten</a></h3>
-										<p>Correlation</p>
+										<p>Natural Language Processing</p>
 									</header>
 								</article>
 																<article>
@@ -146,7 +144,7 @@
 									</span>
 									<header class="major">
 										<h3><a href="01na-unit-11.html" class="link">Unit Eleven</a></h3>
-										<p>Regression Analysis</p>
+										<p>Model Selection and Evaluation</p>
 									</header>
 								</article>
 																<article>
@@ -155,7 +153,7 @@
 									</span>
 									<header class="major">
 										<h3><a href="01na-unit-12.html" class="link">Unit Twelve</a></h3>
-										<p>Bayesian Data Analysis</p>
+										<p>Industry 4.0 and Machine Learning</p>
 									</header>
 								</article>
 							</section>
